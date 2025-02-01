@@ -1,7 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC97&height=200&section=header&text=Haenni's%20GitHub&fontSize=50&fontColor=ffffff" />
 <p align="center">
-<!-- <img src="https://t1.daumcdn.net/thumb/R720x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/3hD/image/23oHGfYvDNdnZDbYZR_kcNdphBM.jpeg" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Haenni's%20GitHub&fontSize=50&fontColor=ffffff" />
+
+<p align="center">
+<img src="https://t1.daumcdn.net/thumb/R720x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/3hD/image/23oHGfYvDNdnZDbYZR_kcNdphBM.jpeg"/>
 
 
 <p align="center">
@@ -74,4 +76,4 @@
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC97&height=200&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=footer" />
