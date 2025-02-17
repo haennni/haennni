@@ -1,10 +1,10 @@
+<!--
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=800&size=24&pause=1000&color=4EF729&width=435&height=60&lines=%F0%9F%91%8B+Hello+World!++I'm+Haennni!+%F0%9F%8C%8D" alt="Typing SVG" /></a>
   </a>
 </p>
 </p>
-<!--
   🔗 Connect with Me</p>
       <img src="https://img.shields.io/badge/ggomulll3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     <span style="font-weight:bold;">
@@ -21,13 +21,10 @@
 </p>
 </p>
   <h3>🌱 <strong>꾸준히 성장하는 개발자, 서해윤입니다.</strong></h3>
-  <em>코드는 한 줄의 마법과 같다고 생각합니다. ✨ </em></p>
-  무심코 작성한 코드 한 줄이 더 나은 사용자 경험을 만들고,  세상을 조금씩 바꾸어 나가니까요.🌎</br>
+  <em>코드는 한 줄의 마법과 같다고 생각합니다. ✨ </em></br>
+  무심코 작성한 코드 한 줄이 더 나은 사용자 경험을 만들고,  세상을 조금씩 바꾸어 나가니까요.🌎</p>
   완벽한 코드는 없지만, 어제보다 더 나은 코드를 만들어갈 수 있다고 늘 생각합니다. </br>
-  매일 새로운 배움과 도전을 통해 나 자신을 업그레이드하며, 문제를 해결할 때 느끼는 짜릿함이 제가 이 길을 계속 걷는 이유입니다.</p>
-  그래서 저는 항상 스스로에게 묻습니다.</p>
-  <em>“어떻게 하면 더 나은 내일을 만들 수 있을까?”</em> </p>
-  그 질문에 답을 찾기 위해 오늘도 코드와 함께 성장해 나가고 있습니다. 💻🚀
+  어제보다 더 나은 코드, 그리고 더 나은 개발자가 되기 위해 성장하는 중입니다.
 </p>
 
 ---
