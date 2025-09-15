@@ -20,11 +20,8 @@
 -->
 </p>
 </p>
-  <h3>🌱 <strong>꾸준히 성장하는 개발자, 서해윤입니다.</strong></h3>
-  <em>코드는 한 줄의 마법과 같다고 생각합니다. ✨ </em></br>
-  무심코 작성한 코드 한 줄이 더 나은 사용자 경험을 만들고,  세상을 조금씩 바꾸어 나가니까요.🌎</p>
+  <h3><strong>꾸준히 성장하는 개발자, 서해윤입니다.</strong></h3>
   완벽한 코드는 없지만, 어제보다 더 나은 코드를 만들어갈 수 있다고 늘 생각합니다. </br>
-  어제보다 더 나은 코드, 그리고 더 나은 개발자가 되기 위해 성장하는 중입니다.
 </p>
 
 ---
@@ -38,6 +35,41 @@
     <img src="https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=mariadb&logoColor=white" />-->
 - DevOps: <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 - Adobe:  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square&logo=Adobe InDesign&logoColor=white"/>
+
+
+### Activities
+| 구분 | 기관/단체 | 기간 | 내용 |
+|------|-----------|------|------|
+| 교내활동 | 벤처스타트업 아카데미 2기 | 2024.03 ~ 2025.02 | 데이터 기반 웹/앱 개발 및 SW 교과목 이수<br/> 우수장학생 선정(200만원 수혜) |
+| 동아리 | 멋쟁이 사자처럼 12기 | 2024.01 ~ 2024.12 | 백엔드 개발 스터디 및 실무 기술 학습<br/> 12기 아이디어톤 대상 수상(100만원 수혜) |
+| 인턴 | WeDataLab | 2024.06 ~ 2024.07 | 백엔드 개발 인턴<br/> 이지스포(ezis for) SAP HANA 솔루션 개발에 기여 |
+
+---
+
+### Education
+| 교육명 | 교육기관 | 기간 | 주요 내용 |
+|-------|---------|------|----------|
+| [프로펙트] 풀스택 부트캠프 | goorm | 2025.07 ~ 2025.09 | 프로젝트 중심 풀스택 심화 과정<br/>프론트 & 백엔드 MVP 구현 및 서버 배포<br/>테스트 코드 작성과 성능 고도화 경험 |
+
+---
+
+### Awards
+| 수상명 | 수여기관 | 연도 | 내용 |
+|-------|---------|------|------|
+| SW 학술제 | 강남대학교 | 2024 | 장려상 수상 |
+| 멋쟁이 사자처럼 아이디어톤 | 멋쟁이 사자처럼 | 2024 | 대상(1등) 수상|
+| 코딩 대회 | 명덕여자고등학교 | 2018 | 최우수상(1등) 수상 |
+
+---
+
+### Certifications
+| 자격증 | 취득월 |
+|-------|-------|
+| 정보처리기사 | 2025.09 |
+| 데이터분석 준전문가(ADsP) | 2025.06 |
+| SQL 개발자(SQLD) | 2025.04 |
+
+---
 
 ---
 ### GitHub Stats
