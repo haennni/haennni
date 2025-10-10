@@ -36,41 +36,6 @@
 - DevOps: <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 - Adobe:  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white"/>
 
----
-
-### Activities
-| 기관/단체 | 기간 | 내용 |
-|-----------|------|------|
-| 벤처스타트업 아카데미 2기 | 2024.03 ~ 2025.02 | 데이터 기반 웹/앱 개발 및 SW 교과목 이수<br/> 우수장학생 선정(200만원 수혜), 학습공동체 1위(50만원 수혜) |
-| 멋쟁이 사자처럼 12기 | 2024.01 ~ 2024.12 | 백엔드 개발 스터디 및 SW 대회 활동<br/> 12기 아이디어톤 대상 수상(100만원 수혜) |
-| WeDataLab | 2024.06 ~ 2024.07 | 백엔드 개발 인턴<br/> 이지스포(ezis for) SAP HANA 솔루션 개발에 기여 |
-
----
-
-### Education
-| 교육명 | 교육기관 | 기간 | 주요 내용 |
-|-------|---------|------|----------|
-| [프로펙트] 풀스택 부트캠프 | goorm | 2025.07 ~ 2025.09 |프론트 & 백엔드 MVP 구현 및 서버 배포<br/> 이벤트 동시성 성능 고도화 <br/>2.2K(총 13.2K)동시 요청 시, p(95) 364.04ms |
-
----
-
-### Awards
-| 수상명 | 수여기관 | 연도 | 내용 |
-|-------|---------|------|------|
-| SW 학술제 | 강남대학교 | 2024 | 장려상 수상 |
-| 멋쟁이 사자처럼 아이디어톤 | 멋쟁이 사자처럼 | 2024 | 대상(1등) 수상|
-| 코딩 대회 | 명덕여자고등학교 | 2018 | 최우수상(1등) 수상 |
-
----
-
-### Certifications
-| 자격증 | 취득월 |
-|-------|-------|
-| 정보처리기사 | 2025.09 |
-| 데이터분석 준전문가(ADsP) | 2025.06 |
-| SQL 개발자(SQLD) | 2025.04 |
-
----
 ### GitHub Stats
 <p align="center">
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
