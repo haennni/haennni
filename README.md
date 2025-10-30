@@ -36,14 +36,6 @@
 - DevOps: <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 - Adobe:  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white"/>
 
-### GitHub Stats
-<p align="center">
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haennni&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 37%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=haennni&show_icons=true&theme=tokyonight" alt="haenni's GitHub stats" style="width: 41%;" />
-</div>
-</br>
-
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haennni&utm_content=line">
   <img
@@ -52,5 +44,14 @@
     height="120"
   />
 </a>
+
+### GitHub Stats
+<p align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haennni&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 37%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haennni&show_icons=true&theme=tokyonight" alt="haenni's GitHub stats" style="width: 41%;" />
+</div>
+</br>
+
   
 
