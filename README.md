@@ -37,6 +37,7 @@
 - Adobe:  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white"/>
 
 
+### GitHub Stats
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haennni&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/haennni?pet-id=737568893932724597"
@@ -44,8 +45,6 @@
     height="120"
   />
 </a>
-
-### GitHub Stats
 <p align="center">
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haennni&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 37%;" />
