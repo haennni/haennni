@@ -38,19 +38,12 @@
 
 
 ### GitHub Stats
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haennni&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/haennni?pet-id=737568893932724597"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haennni&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/haennni"
+  width="600"
+  height="300"
+/>
 </a>
-<p align="center">
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haennni&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 37%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=haennni&show_icons=true&theme=tokyonight" alt="haenni's GitHub stats" style="width: 41%;" />
-</div>
-</br>
-
   
 
