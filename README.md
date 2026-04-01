@@ -1,41 +1,91 @@
-<!--
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=800&size=24&pause=1000&color=4EF729&width=435&height=60&lines=%F0%9F%91%8B+Hello+World!++I'm+Haennni!+%F0%9F%8C%8D" alt="Typing SVG" /></a>
-  </a>
-</p>
-</p>
-  🔗 Connect with Me</p>
-      <img src="https://img.shields.io/badge/ggomulll3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    <span style="font-weight:bold;">
-</p>
-🔗 About with Me </p>
-    <a href="https://dev-haen.tistory.com">
-        <img src="https://img.shields.io/badge/Tech%20Blog-%23FF6600?style=for-the-badge&logo=tistory&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/codeninja.x_x">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-</p>
--->
-</p>
-</p>
-  <h3><strong>꾸준히 성장하는 개발자, 서해윤입니다.</strong></h3>
-  완벽한 코드는 없지만, 어제보다 더 나은 코드를 만들어갈 수 있다고 늘 생각합니다. </br>
-</p>
-</p>
-</p>
+## 서해윤 | Backend Developer
 
-### Skill
-- Language:  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-- Backend:  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/> <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful API-4DB6AC?style=flat-square&logo=RESTfulAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Security-0073CF?style=flat-square&logo=security&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/> 
-    <!--<img src="https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebStorm-%000000?style=for-the-badge&logo=webstorm&logoColor=white" />
-    <img src="https://img.shields.io/badge/JWT-%23000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-    <img src="https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=mariadb&logoColor=white" />-->
-- DevOps: <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-- Adobe:  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white"/>
+Java/Spring 기반 백엔드 개발자입니다.  
+성능 개선과 안정적인 서버 구조 설계에 관심이 있습니다.
 
+- 강남대학교 소프트웨어응용학과
+- GPA: 4.02 / 4.5
+
+---
+
+## Experience
+
+### 케이사인 | 통합인증개발팀 주임연구원
+2025.12.15 ~ Present
+
+- 통합인증 서비스 백엔드 개발
+- SSO 및 인증/인가 관련 기능 개선
+- 관리자 기능 및 API 개발
+- 레거시 코드 분석 및 리팩토링을 통한 시스템 안정성 개선
+- 인증 흐름 기반 문제 해결 및 운영 환경 대응
+
+### 위데이터랩 | 인공지능연구소 인턴
+백엔드/서버개발  
+2024.06 ~ 2024.07
+
+- 사내 백엔드 개발 프로세스를 문서화하여 온보딩 효율 향상
+- SAP HANA DB 관련 내부 레퍼런스 자료 30페이지 작성
+- 공식 문서가 부족한 환경에서 DB 학습 자료를 정리해 자사 솔루션 이해도 향상에 기여
+
+---
+
+## Projects
+
+### 1. Tickle
+**대규모 트래픽 환경의 티켓팅 이벤트 서비스**  
+- 팀장으로 참여해 백엔드·프론트엔드 개발, CI/CD 구축, 이벤트/포인트 결제 기능 개발 수행
+- Redis Stream, RabbitMQ 기반 비동기 구조로 선착순 이벤트 처리 성능 개선
+- **1.3 TPS → 1,414 TPS**, 평균 응답 속도 **38초 → 0.18초** 개선
+
+### 2. Growfit
+**공공 API 데이터를 활용한 소아비만 관리 플랫폼**  
+- 팀장으로 참여해 식단, 목표 관리, JWT 기반 로그인·회원가입 기능 구현
+- 식품영양 Open API 연동 및 데이터 적재 구조 개선
+- 비동기 API 호출과 병렬 저장 파이프라인 적용으로 **DB 적재 속도 60% 개선**
+- 호출 시간 **17.4초 → 6.9초** 단축
+
+### 3. Mockview
+**AI 기반 모의면접 및 면접 컨설팅 플랫폼**  
+- OpenAI API 연동, WebSocket 기반 1:1 채팅, JWT 인증 기능 개발
+- 커뮤니티 및 기업 후기 게시판 기능 구현
+- 백엔드 핵심 기능 **10개 개발** 및 실시간 면접 피드백 서비스 구현
+
+### 4. NEWSPACT
+**크롤링 기반 뉴스 큐레이션 플랫폼**  
+- RESTful API를 설계·구현해 앱과 연동 가능한 엔드포인트 제공
+
+## Activities
+
+| 활동명 | 기간 | 내용 |
+| --- | --- | --- |
+| 멋쟁이사자처럼 대학동아리 | 2024.01 ~ 2024.12 | 정기 백엔드 세션 참여를 통해 Spring 기반 개발 역량 강화<br>SW 아이디어톤 **대상(1등)** 수상 |
+| 벤처스타트업 아카데미 2기 | 2024.03 ~ 2025.02 | 데이터 기반 웹/앱 개발자 양성 프로그램 수료<br>**우수 장학생** 선발<br>학습공동체 **1등** 달성 |
+| 프로펙트 풀스택 부트캠프 | 2025.07 ~ 2025.09 | 팀장<br>티켓팅 서비스 선착순 이벤트 기능 성능 개선<br>1.3 TPS → **1,404 TPS** 개선 (약 1,080배 향상)<br>평균 응답 속도 38초 → **0.18초 수준으로 단축**<br>Prometheus, Grafana 기반 병목 구간 분석<br>Redis Stream, RabbitMQ 기반 비동기 구조로 개선<br>동시성 문제 해결 및 대규모 트래픽 처리 구조 설계 경험 |
+
+---
+
+## Awards
+
+| 수상명 | 일자 | 기관 |
+| --- | --- | --- |
+| 멋쟁이사자처럼 SW 아이디어톤 **대상** | 2024.06 | 멋쟁이사자처럼 |
+| 강남대학교 SW 학술제 **장려상** | 2024.05 | 강남대학교 |
+| 명덕여자고등학교 코딩대회 **대상** | 2019.02 | 명덕여자고등학교 |
+
+---
+
+## Certificates
+
+| 자격증 | 취득일 | 기관 |
+| --- | --- | --- |
+| 정보처리기사 | 2025.09 | 한국산업인력공단 |
+| ADsP 데이터분석준전문가 | 2025.06 | 한국데이터산업진흥원 |
+| SQLD SQL개발자 | 2025.04 | 한국데이터산업진흥원 |
+---
+## Links
+- Tech Blog: https://dev-haen.tistory.com
+- Email: ggomulll3@gmail.com
+--
 
 ### GitHub Stats
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haennni&utm_content=farm">
@@ -46,4 +96,3 @@
 />
 </a>
   
-
