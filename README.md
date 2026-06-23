@@ -16,16 +16,16 @@ Java/Spring 기반 백엔드 개발자입니다.
 
 - 통합인증 서비스 백엔드 개발
 - SSO 및 인증/인가 관련 기능 개선
-- Admin console 기능 및 API 개발
-- 인증 흐름 기반 문제 해결 및 운영 환경 대응
+- KsignAccessV5 Admin console 기능 및 API 개발
+- KsignAccess policy server BE 개발
+- KsignAccess FAQ Service DE/FE/BE 개발
 
 ### 위데이터랩 | 인공지능연구소 인턴
 백엔드/서버개발  
 2024.06 ~ 2024.07
 
+- SAP HANA DB 관련 내부 레퍼런스 자료 30페이지 작성 및 연구 참여
 - 사내 백엔드 개발 프로세스를 문서화하여 온보딩 효율 향상
-- SAP HANA DB 관련 내부 레퍼런스 자료 30페이지 작성
-- 공식 문서가 부족한 환경에서 DB 학습 자료를 정리해 자사 솔루션 이해도 향상에 기여
 
 ---
 
